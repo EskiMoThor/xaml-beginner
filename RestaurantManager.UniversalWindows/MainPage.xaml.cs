@@ -37,4 +37,5 @@ namespace RestaurantManager.UniversalWindows
             Frame.Navigate(typeof(ExpeditePage));
         }
     }
+    
 }
